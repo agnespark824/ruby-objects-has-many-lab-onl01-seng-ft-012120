@@ -17,5 +17,4 @@ class Artist
     song = Song.new(name, genre)
     add_song(song)
   end
-  
 end
